@@ -15,11 +15,19 @@ body {
 }
 
 .header {
-  font-family: Raleway;
+  font-family: Caveat, sans-serif;
+}
+.logo {
+  font-family: JetBrains Mono;
 }
 
 img {
   object-fit: cover;
+  transition: 0.5s;
+}
+img:hover {
+  transform: scale(102%);
+  transition: 0.5s;
 }
 /* Changes selecting color */
 ::selection {
