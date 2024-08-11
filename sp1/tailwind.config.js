@@ -4,12 +4,17 @@ export default {
   theme: {
     extend: {
       animation: {
-        "loop-scroll": "loop-scroll 130s linear infinite",
+        "loop-scroll": "loop-scroll 170s linear infinite",
+        "reverse-loop": "reverse-loop 170s linear infinite",
       },
       keyframes: {
         "loop-scroll": {
           from: { transform: "translateX(0)" },
           to: { transform: "translateX(-100%)" },
+        },
+        "reverse-loop-scroll": {
+          from: { transform: "translateX(0)" },
+          to: { transform: "translateX(100%)" },
         },
       },
     },
