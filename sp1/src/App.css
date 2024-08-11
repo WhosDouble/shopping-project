@@ -14,21 +14,29 @@ body {
   padding: 0;
   box-sizing: border-box;
 }
-
+/*background for the navbar to have a slight blur effect*/
 .navbar {
   backdrop-filter: blur(10px);
   background-color: rgba(255, 255, 255, 0.8);
 }
 
+/*adding fonts for the words*/
 .header {
   font-family: Caveat, sans-serif;
 }
 .logo {
   font-family: JetBrains Mono;
 }
-
+#title {
+  font-family: JetBrains Mono, sans-serif;
+}
+#desc {
+  font-family: Caveat, sans-serif;
+}
+/*styling for the img's in the carousel*/
 img {
   object-fit: cover;
+  height: 500px;
   transition: 0.5s;
 }
 img:hover {

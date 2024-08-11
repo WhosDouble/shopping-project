@@ -24,58 +24,109 @@ function Slider() {
     <div className="pt-20">
       <Carousel responsive={responsive}>
         <div className="mr-5 relative">
-          <div className="w-[56px] h-[56px] flex items-center justify-center rounded-full absolute -right-0 -top-2 bg-[#1b1b1b] z-20">
+          <div className="w-[56px] h-[56px] flex items-center justify-center rounded-full absolute right-5 -top-2 bg-[#1b1b1b] z-20">
             <h3 className="text-white">New</h3>
           </div>
-          <img src="/woman1.jpg" alt="" />
-          <h2>FALL SALE</h2>
-          <h1>SPECIAL FALL SALE</h1>
+          <img src="/woman3.jpg" alt="model in a autumn background" />
+          <h2 id="title" className="title text-[14px] text-[rgba(0,0,0,0.8)]">
+            Fall Sale
+          </h2>
+          <h1
+            id="desc"
+            className="desc font-semibold text-[20px] tracking-wider"
+          >
+            SPECIAL FALL SALE🍂
+          </h1>
         </div>
         <div className="mr-5">
-          <img src="/woman1.jpg" alt="" />
-          <h2>THE NORTH FACE</h2>
-          <h1>GREEN BATON</h1>
+          <img src="/jacket1.jpg" alt="" />
+          <h2 id="title" className="text-[14px] text-[rgba(0,0,0,0.8)]">
+            THE NORTH FACE
+          </h2>
+          <h1
+            id="desc"
+            className="desc font-semibold text-[20px] tracking-wider"
+          >
+            GREEN BATON🟢
+          </h1>
         </div>
         <div className="mr-5">
           <div className="w-[56px] h-[56px] flex items-center justify-center rounded-full absolute right-5 -top-2 bg-[#1b1b1b] z-20">
             <h3 className="text-white">New</h3>
           </div>
-          <img src="/woman1.jpg" alt="" />
-          <h2>LYNDELL</h2>
-          <h1>Lyndell ♥ Hoodies</h1>
+          <img src="/dude2.jpg" alt="" />
+          <h2 id="title" className="text-[14px] text-[rgba(0,0,0,0.8)]">
+            LYNTELL
+          </h2>
+          <h1 id="desc" className="font-semibold text-[20px] tracking-wider">
+            LYNTELL ♥ HOODIES
+          </h1>
+        </div>
+        <div className="mr-5">
+          <img src="/dude3.jpg" alt="" />
+          <h2 id="title" className="text-[14px] text-[rgba(0,0,0,0.8)]">
+            outdoor
+          </h2>
+          <h1 id="desc" className="font-semibold text-[20px] tracking-wider">
+            OUTDOOR COLLECTION 🏞
+          </h1>
+        </div>
+        <div className="mr-5">
+          <img src="/dude4.jpg" alt="" />
+          <h2 id="title" className="text-[14px] text-[rgba(0,0,0,0.8)]">
+            street
+          </h2>
+          <h1 id="desc" className="font-bold text-[20px] tracking-wider">
+            Street Wear Collection
+          </h1>
         </div>
         <div className="mr-5">
           <img src="/woman1.jpg" alt="" />
-          <h2>outdoor</h2>
-          <h1>OUTDOOR COLLECTION</h1>
+          <h2 id="title" className="text-[14px] text-[rgba(0,0,0,0.8)]">
+            Remix
+          </h2>
+          <h1 id="desc" className="font-bold text-[20px] tracking-wider">
+            BUY2 50%OFF Collection2️
+          </h1>
         </div>
         <div className="mr-5">
-          <img src="/woman1.jpg" alt="" />
-          <h2>street</h2>
-          <h1>Street Wear Collection</h1>
-        </div>
-        <div className="mr-5">
-          <img src="/woman1.jpg" alt="" />
-          <h1>test</h1>
-        </div>
-        <div className="mr-5">
-          <img src="/woman1.jpg" alt="" />
-          <h1>test</h1>
+          <img src="/woman5.jpg" alt="" />
+          <h2 id="title" className="text-[14px] text-[rgba(0,0,0,0.8)]">
+            BRAND NAME
+          </h2>
+          <h1 id="desc" className="font-bold text-[20px] tracking-wider">
+            International Collection
+          </h1>
         </div>
         <div className="mr-5">
           <div className="w-[56px] h-[56px] flex items-center justify-center rounded-full absolute right-5 -top-2 bg-[#1b1b1b] z-20">
             <h3 className="text-white">New</h3>
           </div>
-          <img src="/woman1.jpg" alt="" />
-          <h1>test</h1>
+          <img src="/pair1.jpg" alt="" />
+          <h2 id="title" className="text-[14px] text-[rgba(0,0,0,0.8)]">
+            BRAND NAME
+          </h2>
+          <h1 id="desc" className="font-bold text-[20px] tracking-wider">
+            FESTIVAL FITS 🎡
+          </h1>
         </div>
         <div className="mr-5">
-          <img src="/woman1.jpg" alt="" />
-          <h1>test</h1>
+          <img src="/woman4.jpg" alt="" />
+          <h2 id="title" className="text-[14px] text-[rgba(0,0,0,0.8)]">
+            BREE
+          </h2>
+          <h1 id="desc" className="font-bold text-[20px] tracking-wider">
+            BEACH BASH 🏐
+          </h1>
         </div>
         <div className="mr-5">
-          <img src="/woman1.jpg" alt="" />
-          <h1>test</h1>
+          <img src="/dude5.jpg" alt="" />
+          <h2 id="title" className="text-[14px] text-[rgba(0,0,0,0.8)]">
+            NIKE
+          </h2>
+          <h1 id="desc" className="font-bold text-[20px] tracking-wider">
+            TECH WEAR
+          </h1>
         </div>
       </Carousel>
     </div>
