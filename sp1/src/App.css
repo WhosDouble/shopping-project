@@ -18,6 +18,16 @@ body {
   padding: 0;
   box-sizing: border-box;
 }
+/*custom scrollbar*/
+::-webkit-scrollbar {
+  width: 15px;
+}
+::-webkit-scrollbar-thumb {
+  background: #1b1b1b;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: rgb(63, 63, 63);
+}
 /*background for the navbar to have a slight blur effect*/
 .navbar {
   backdrop-filter: blur(10px);
@@ -52,8 +62,8 @@ img:hover {
 }
 /* styling for the second section */
 .section2 {
-  border-top: 1px solid #1b1b1b;
-  border-bottom: 1px solid #1b1b1b;
+  border-top: 1px solid rgba(0, 0, 0, 0.3);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.3);
   margin-top: 65px;
 }
 

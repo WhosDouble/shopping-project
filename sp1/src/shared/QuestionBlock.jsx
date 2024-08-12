@@ -7,72 +7,67 @@ function BasicExample() {
       <Accordion defaultActiveKey="0" className="mb-5 mt-5  ">
         <Accordion.Item eventKey="0">
           <Accordion.Header className="font-bold ">
-            01. How do you know when you know about the product?
+            01. What is your return policy?
           </Accordion.Header>
           <Accordion.Body>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
-            ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-            aliquip ex ea commodo consequat. Duis aute irure dolor in
-            reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-            pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-            culpa qui officia deserunt mollit anim id est laborum.
+            We offer a 30-day return policy from the date of delivery. Items
+            must be unworn, unwashed, and in their original packaging with all
+            tags attached. To initiate a return, please visit our{" "}
+            <a className="font-semibold underline" href="">
+              Returns Center
+            </a>{" "}
+            and follow the instructions.
           </Accordion.Body>
         </Accordion.Item>
         <Accordion.Item eventKey="1">
           <Accordion.Header className="font-bold ">
-            02. When do you know when you know about the product?
+            02. How long does shipping take?
           </Accordion.Header>
           <Accordion.Body>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
-            ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-            aliquip ex ea commodo consequat. Duis aute irure dolor in
-            reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-            pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-            culpa qui officia deserunt mollit anim id est laborum.
+            Shipping typically takes 3-7 business days for domestic orders and
+            7-14 business days for international orders. Please note that
+            shipping times may vary based on your location and any unforeseen
+            delays.
           </Accordion.Body>
         </Accordion.Item>
         <Accordion.Item eventKey="2">
           <Accordion.Header className="font-bold ">
-            03. Where do you know when you know about the product?
+            03. What payment methods do you accept?
           </Accordion.Header>
           <Accordion.Body>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
-            ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-            aliquip ex ea commodo consequat. Duis aute irure dolor in
-            reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-            pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-            culpa qui officia deserunt mollit anim id est laborum.
+            We accept a variety of payment methods, including major credit cards
+            (<span className="font-semibold">Visa</span>,{" "}
+            <span className="font-semibold">MasterCard</span>,{" "}
+            <span className="font-semibold">American Express</span>), PayPal,
+            Apple Pay, and Google Pay. All payments are securely processed to
+            ensure your information is protected.
           </Accordion.Body>
         </Accordion.Item>
         <Accordion.Item eventKey="3">
           <Accordion.Header className="font-bold ">
-            04. Why do you know when you know about the product?
+            04. Do you offer discounts or promotions?
           </Accordion.Header>
           <Accordion.Body>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
-            ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-            aliquip ex ea commodo consequat. Duis aute irure dolor in
-            reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-            pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-            culpa qui officia deserunt mollit anim id est laborum.
+            Yes, we regularly offer discounts and promotions. Sign up for our
+            newsletter to receive the latest updates on special offers, and
+            heres a free one <span className="font-bold">$free10</span> for a
+            free 10% off just for scrolling this far thank you for your
+            support♥.
           </Accordion.Body>
         </Accordion.Item>
         <Accordion.Item eventKey="4">
           <Accordion.Header className="font-bold ">
-            05. Do you Have the growth to uphand the bigger question?
+            05. Can I modify or cancel my order after it’s been placed?
           </Accordion.Header>
           <Accordion.Body>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
-            ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-            aliquip ex ea commodo consequat. Duis aute irure dolor in
-            reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-            pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-            culpa qui officia deserunt mollit anim id est laborum.
+            If you need to modify or cancel your order, please contact our{" "}
+            <a className="font-semibold underline" href="#">
+              customer service
+            </a>{" "}
+            team as soon as possible. We process orders quickly, so changes can
+            only be made within a short window after the order is placed. Once
+            the order has been processed or shipped, we won’t be able to make
+            any modifications or cancellations.
           </Accordion.Body>
         </Accordion.Item>
       </Accordion>

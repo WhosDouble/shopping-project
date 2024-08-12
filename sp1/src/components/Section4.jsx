@@ -1,8 +1,13 @@
 import BasicExample from "../shared/QuestionBlock";
+import Marquee from "../shared/Marquee";
 
 function Section4() {
   return (
     <section id="section2 overflow-hidden">
+      <h1 id="desc" className="text-center text-[50px] font-semibold">
+        Best and Trusted Brands
+      </h1>
+      <Marquee />
       <div className="flex justify-center flex-wrap gap-10 p-10 mt-5">
         <div className="flex gap-5">
           <img
