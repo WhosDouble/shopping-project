@@ -3,7 +3,7 @@ import ClotheDisplay from "../shared/ClotheDisplay";
 function Section2() {
   return (
     <>
-      <section className="section2">
+      <section className="section2 overflow-hidden">
         <div className="flex p-14 h-[900px]">
           <div className="w-full max-w-[350px]">
             <h1 id="desc" className="text-[55px]">

@@ -8,7 +8,7 @@ function Marquee() {
               <div className="border w-full p-1 rounded-2xl text-[13px] text-[#eee] group-hover:text-[#eeeeeec4]">
                 NORTH FACE
               </div>
-              <h1 className="text-[#eee] group-hover:text-[#eeeeeec4]">
+              <h1 className="text-[#eee] text-[25px] group-hover:text-[#eeeeeec4]">
                 NEW FALL x COLLECTION
               </h1>
             </div>
@@ -16,7 +16,7 @@ function Marquee() {
               <div className="border p-1 w-full rounded-2xl text-[13px] text-[#eee] group-hover:text-[#eeeeeec4]">
                 NORTH FACE
               </div>
-              <h1 className="text-[#eee] group-hover:text-[#eeeeeec4]">
+              <h1 className="text-[#eee] text-[25px] group-hover:text-[#eeeeeec4]">
                 NORTH FACE x Green Baton Collection
               </h1>
             </div>
@@ -24,7 +24,7 @@ function Marquee() {
               <div className="border p-1 w-full rounded-2xl text-[13px] text-[#eee] group-hover:text-[#eeeeeec4]">
                 LYNTELL
               </div>
-              <h1 className="text-[#eee] group-hover:text-[#eeeeeec4]">
+              <h1 className="text-[#eee] text-[25px] group-hover:text-[#eeeeeec4]">
                 NEW LYNTELL x Heart Hoodies
               </h1>
             </div>
@@ -32,7 +32,7 @@ function Marquee() {
               <div className="border p-1 w-full rounded-2xl text-[13px] text-[#eee] group-hover:text-[#eeeeeec4]">
                 Outdoor
               </div>
-              <h1 className="text-[#eee] group-hover:text-[#eeeeeec4]">
+              <h1 className="text-[#eee] text-[25px] group-hover:text-[#eeeeeec4]">
                 OutDoor Collection
               </h1>
             </div>
@@ -40,7 +40,7 @@ function Marquee() {
               <div className="border p-1 w-full rounded-2xl text-[13px] text-[#eee] group-hover:text-[#eeeeeec4]">
                 Street
               </div>
-              <h1 className="text-[#eee] group-hover:text-[#eeeeeec4]">
+              <h1 className="text-[#eee] text-[25px] group-hover:text-[#eeeeeec4]">
                 Street Wear Collection
               </h1>
             </div>
@@ -48,7 +48,7 @@ function Marquee() {
               <div className="border p-1 w-full rounded-2xl text-[13px] text-[#eee] group-hover:text-[#eeeeeec4]">
                 REMIX
               </div>
-              <h1 className="text-[#eee] group-hover:text-[#eeeeeec4]">
+              <h1 className="text-[#eee] text-[25px] group-hover:text-[#eeeeeec4]">
                 BUY2 50%OFF COLLECTION
               </h1>
             </div>
@@ -59,7 +59,7 @@ function Marquee() {
               <div className="border w-full p-1 rounded-2xl text-[13px] text-[#eee] group-hover:text-[#eeeeeec4]">
                 NORTH FACE
               </div>
-              <h1 className="text-[#eee] group-hover:text-[#eeeeeec4]">
+              <h1 className="text-[#eee] text-[25px] group-hover:text-[#eeeeeec4]">
                 NEW FALL x COLLECTION
               </h1>
             </div>
@@ -67,7 +67,7 @@ function Marquee() {
               <div className="border p-1 w-full rounded-2xl text-[13px] text-[#eee] group-hover:text-[#eeeeeec4]">
                 NORTH FACE
               </div>
-              <h1 className="text-[#eee] group-hover:text-[#eeeeeec4]">
+              <h1 className="text-[#eee] text-[25px] group-hover:text-[#eeeeeec4]">
                 NORTH FACE x Green Baton Collection
               </h1>
             </div>
@@ -75,7 +75,7 @@ function Marquee() {
               <div className="border p-1 w-full rounded-2xl text-[13px] text-[#eee] group-hover:text-[#eeeeeec4]">
                 LYNTELL
               </div>
-              <h1 className="text-[#eee] group-hover:text-[#eeeeeec4]">
+              <h1 className="text-[#eee] text-[25px] group-hover:text-[#eeeeeec4]">
                 NEW LYNTELL x Heart Hoodies
               </h1>
             </div>
@@ -83,7 +83,7 @@ function Marquee() {
               <div className="border p-1 w-full rounded-2xl text-[13px] text-[#eee] group-hover:text-[#eeeeeec4]">
                 Outdoor
               </div>
-              <h1 className="text-[#eee] group-hover:text-[#eeeeeec4]">
+              <h1 className="text-[#eee] text-[25px] group-hover:text-[#eeeeeec4]">
                 OutDoor Collection
               </h1>
             </div>
@@ -91,7 +91,7 @@ function Marquee() {
               <div className="border p-1 w-full rounded-2xl text-[13px] text-[#eee] group-hover:text-[#eeeeeec4]">
                 Street
               </div>
-              <h1 className="text-[#eee] group-hover:text-[#eeeeeec4]">
+              <h1 className="text-[#eee] text-[25px] group-hover:text-[#eeeeeec4]">
                 Street Wear Collection
               </h1>
             </div>
@@ -99,7 +99,7 @@ function Marquee() {
               <div className="border p-1 w-full rounded-2xl text-[13px] text-[#eee] group-hover:text-[#eeeeeec4]">
                 REMIX
               </div>
-              <h1 className="text-[#eee] group-hover:text-[#eeeeeec4]">
+              <h1 className="text-[#eee] text-[25px] group-hover:text-[#eeeeeec4]">
                 BUY2 50%OFF COLLECTION
               </h1>
             </div>
@@ -110,7 +110,7 @@ function Marquee() {
               <div className="border w-full p-1 rounded-2xl text-[13px] text-[#eee] group-hover:text-[#eeeeeec4]">
                 NORTH FACE
               </div>
-              <h1 className="text-[#eee] group-hover:text-[#eeeeeec4]">
+              <h1 className="text-[#eee] text-[25px] group-hover:text-[#eeeeeec4]">
                 NEW FALL x COLLECTION
               </h1>
             </div>
@@ -118,7 +118,7 @@ function Marquee() {
               <div className="border p-1 w-full rounded-2xl text-[13px] text-[#eee] group-hover:text-[#eeeeeec4]">
                 NORTH FACE
               </div>
-              <h1 className="text-[#eee] group-hover:text-[#eeeeeec4]">
+              <h1 className="text-[#eee] text-[25px] group-hover:text-[#eeeeeec4]">
                 NORTH FACE x Green Baton Collection
               </h1>
             </div>
@@ -126,7 +126,7 @@ function Marquee() {
               <div className="border p-1 w-full rounded-2xl text-[13px] text-[#eee] group-hover:text-[#eeeeeec4]">
                 LYNTELL
               </div>
-              <h1 className="text-[#eee] group-hover:text-[#eeeeeec4]">
+              <h1 className="text-[#eee] text-[25px] group-hover:text-[#eeeeeec4]">
                 NEW LYNTELL x Heart Hoodies
               </h1>
             </div>
@@ -134,7 +134,7 @@ function Marquee() {
               <div className="border p-1 w-full rounded-2xl text-[13px] text-[#eee] group-hover:text-[#eeeeeec4]">
                 Outdoor
               </div>
-              <h1 className="text-[#eee] group-hover:text-[#eeeeeec4]">
+              <h1 className="text-[#eee] text-[25px] group-hover:text-[#eeeeeec4]">
                 OutDoor Collection
               </h1>
             </div>
@@ -142,7 +142,7 @@ function Marquee() {
               <div className="border p-1 w-full rounded-2xl text-[13px] text-[#eee] group-hover:text-[#eeeeeec4]">
                 Street
               </div>
-              <h1 className="text-[#eee] group-hover:text-[#eeeeeec4]">
+              <h1 className="text-[#eee] text-[25px] group-hover:text-[#eeeeeec4]">
                 Street Wear Collection
               </h1>
             </div>
@@ -150,7 +150,7 @@ function Marquee() {
               <div className="border p-1 w-full rounded-2xl text-[13px] text-[#eee] group-hover:text-[#eeeeeec4]">
                 REMIX
               </div>
-              <h1 className="text-[#eee] group-hover:text-[#eeeeeec4]">
+              <h1 className="text-[#eee] text-[25px] group-hover:text-[#eeeeeec4]">
                 BUY2 50%OFF COLLECTION
               </h1>
             </div>
