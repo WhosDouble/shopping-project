@@ -24,10 +24,10 @@ function Slider() {
     <div className="pt-20">
       <Carousel responsive={responsive}>
         <div className="mr-5 relative">
-          <div className="w-[56px] h-[56px] flex items-center justify-center rounded-full absolute right-5 -top-2 bg-[#1b1b1b] z-20">
+          <div className="w-[56px] h-[56px] flex items-center justify-center rounded-full absolute right-3 -top-2 bg-[#1b1b1b] z-20">
             <h3 className="text-white">New</h3>
           </div>
-          <img src="/woman3.jpg" alt="model in a autumn background" />
+          <img id="cImg" src="/woman3.jpg" alt="model in a autumn background" />
           <h2 id="title" className="title text-[14px] text-[rgba(0,0,0,0.8)]">
             Fall Sale
           </h2>
@@ -39,7 +39,7 @@ function Slider() {
           </h1>
         </div>
         <div className="mr-5">
-          <img src="/jacket1.jpg" alt="" />
+          <img id="cImg" src="/jacket1.jpg" alt="" />
           <h2 id="title" className="text-[14px] text-[rgba(0,0,0,0.8)]">
             THE NORTH FACE
           </h2>
@@ -51,10 +51,10 @@ function Slider() {
           </h1>
         </div>
         <div className="mr-5">
-          <div className="w-[56px] h-[56px] flex items-center justify-center rounded-full absolute right-5 -top-2 bg-[#1b1b1b] z-20">
+          <div className="w-[56px] h-[56px] flex items-center justify-center rounded-full absolute right-12 -top-2 bg-[#1b1b1b] z-20">
             <h3 className="text-white">New</h3>
           </div>
-          <img src="/dude2.jpg" alt="" />
+          <img id="cImg" src="/dude2.jpg" alt="" />
           <h2 id="title" className="text-[14px] text-[rgba(0,0,0,0.8)]">
             LYNTELL
           </h2>
@@ -63,7 +63,7 @@ function Slider() {
           </h1>
         </div>
         <div className="mr-5">
-          <img src="/dude3.jpg" alt="" />
+          <img id="cImg" src="/dude3.jpg" alt="" />
           <h2 id="title" className="text-[14px] text-[rgba(0,0,0,0.8)]">
             outdoor
           </h2>
@@ -72,7 +72,7 @@ function Slider() {
           </h1>
         </div>
         <div className="mr-5">
-          <img src="/dude4.jpg" alt="" />
+          <img id="cImg" src="/dude4.jpg" alt="" />
           <h2 id="title" className="text-[14px] text-[rgba(0,0,0,0.8)]">
             street
           </h2>
@@ -81,7 +81,7 @@ function Slider() {
           </h1>
         </div>
         <div className="mr-5">
-          <img src="/woman1.jpg" alt="" />
+          <img id="cImg" src="/woman1.jpg" alt="" />
           <h2 id="title" className="text-[14px] text-[rgba(0,0,0,0.8)]">
             Remix
           </h2>
@@ -90,7 +90,7 @@ function Slider() {
           </h1>
         </div>
         <div className="mr-5">
-          <img src="/woman5.jpg" alt="" />
+          <img id="cImg" src="/woman5.jpg" alt="" />
           <h2 id="title" className="text-[14px] text-[rgba(0,0,0,0.8)]">
             BRAND NAME
           </h2>
@@ -102,7 +102,7 @@ function Slider() {
           <div className="w-[56px] h-[56px] flex items-center justify-center rounded-full absolute right-5 -top-2 bg-[#1b1b1b] z-20">
             <h3 className="text-white">New</h3>
           </div>
-          <img src="/pair1.jpg" alt="" />
+          <img id="cImg" src="/pair1.jpg" alt="" />
           <h2 id="title" className="text-[14px] text-[rgba(0,0,0,0.8)]">
             BRAND NAME
           </h2>
@@ -110,8 +110,8 @@ function Slider() {
             FESTIVAL FITS 🎡
           </h1>
         </div>
-        <div className="mr-5">
-          <img src="/woman4.jpg" alt="" />
+        <div className="mr-5 h-[500px]">
+          <img id="cImg" src="/woman4.jpg" alt="" />
           <h2 id="title" className="text-[14px] text-[rgba(0,0,0,0.8)]">
             BREE
           </h2>
@@ -120,7 +120,7 @@ function Slider() {
           </h1>
         </div>
         <div className="mr-5">
-          <img src="/dude5.jpg" alt="" />
+          <img id="cImg" src="/dude5.jpg" alt="" />
           <h2 id="title" className="text-[14px] text-[rgba(0,0,0,0.8)]">
             NIKE
           </h2>

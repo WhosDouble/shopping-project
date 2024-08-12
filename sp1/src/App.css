@@ -13,6 +13,7 @@ body {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  scroll-behavior: smooth;
 }
 /*background for the navbar to have a slight blur effect*/
 .navbar {
@@ -34,15 +35,25 @@ body {
   font-family: Caveat, sans-serif;
 }
 /*styling for the img's in the carousel*/
+#cImg {
+  height: 520px;
+  object-fit: cover;
+}
 img {
   object-fit: cover;
-  height: 500px;
   transition: 0.5s;
 }
 img:hover {
   transform: scale(102%);
   transition: 0.5s;
 }
+/* styling for the second section */
+.section2 {
+  border-top: 1px solid #1b1b1b;
+  border-bottom: 1px solid #1b1b1b;
+  margin-top: 65px;
+}
+
 /* Changes selecting color */
 ::selection {
   color: #eee;

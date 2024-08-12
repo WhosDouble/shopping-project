@@ -1,9 +1,9 @@
 function Navbar() {
   return (
-    <header className=" w-full fixed">
+    <header className=" w-full fixed z-50">
       <nav className="navbar flex w-full h-16 items-center">
         <h2 className="logo text-[23px] pl-10 mr-auto font-semibold">
-          Lyntell Online Store
+          <a href="#">Lyntell Online Store</a>
         </h2>
         <div className="flex flex-row-reverse items-center gap-5 pr-10">
           <label>
