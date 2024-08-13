@@ -52,6 +52,7 @@ body {
   height: 520px;
   object-fit: cover;
 }
+
 img {
   object-fit: cover;
   transition: 0.5s;
@@ -60,6 +61,11 @@ img:hover {
   transform: scale(102%);
   transition: 0.5s;
 }
+/*styling for the img's in second marquee*/
+.reverse {
+  object-fit: none;
+}
+
 /* styling for the second section */
 .section2 {
   border-top: 1px solid rgba(0, 0, 0, 0.3);

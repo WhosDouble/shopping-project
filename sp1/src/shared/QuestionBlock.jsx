@@ -3,7 +3,9 @@ import Accordion from "react-bootstrap/Accordion";
 function BasicExample() {
   return (
     <>
-      <h1 className="text-center text-[40px]">Your FAQ</h1>
+      <h1 id="desc" className="text-center text-[50px] font-semibold">
+        Your FAQ
+      </h1>
       <Accordion defaultActiveKey="0" className="mb-5 mt-5  ">
         <Accordion.Item eventKey="0">
           <Accordion.Header className="font-bold ">
