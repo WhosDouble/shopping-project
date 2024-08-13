@@ -11,10 +11,11 @@ function Section4() {
       <div className="flex justify-center flex-wrap gap-10 p-10 mt-5">
         <div className="flex gap-5">
           <img
-            className="w-full max-w-[350px] h-[300px]"
+            className="w-full max-w-[350px] h-[300px] group relative"
             src="/new1.jpg"
             alt=""
           />
+          <div className="w-[225px] opacity-0 h-10 bg-black absolute group-hover:opacity-100"></div>
           <img
             className="w-full max-w-[350px] h-[300px]"
             src="/new2.jpg"
