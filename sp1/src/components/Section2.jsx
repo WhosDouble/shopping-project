@@ -4,7 +4,7 @@ function Section2() {
   return (
     <>
       <section className="section2 overflow-hidden">
-        <div className="flex p-14 h-[900px]">
+        <div className="changeC flex w-full p-14 h-[900px]">
           <div className="w-full max-w-[350px]">
             <h1 id="desc" className="text-[55px]">
               High Quality Clothes

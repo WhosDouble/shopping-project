@@ -83,3 +83,27 @@ img:hover {
   color: #eee;
   background: black;
 }
+/* responsive work down here*/
+@media (max-width: 1522px) {
+  .remove {
+    display: none;
+  }
+  .change {
+    flex-direction: column;
+    flex-wrap: nowrap;
+  }
+  .col {
+    flex-direction: column;
+  }
+}
+@media (max-width: 1272px) {
+  .changeC {
+    flex-direction: column;
+  }
+  .change {
+    flex-wrap: nowrap;
+  }
+  .section2 {
+    overflow: visible;
+  }
+}

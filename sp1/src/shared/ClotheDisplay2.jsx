@@ -39,7 +39,7 @@ function ClotheDisplay2() {
           <p id="title">9.99$</p>
         </div>
       </div>
-      <div className="w-full max-w-[370px] h-[738px] bg-slate-950 mr-36">
+      <div className="remove w-full max-w-[370px] h-[738px] bg-slate-950 mr-36">
         <img className="h-[752px]" src="/dude7.jpg" alt="male wearing jacket" />
       </div>
     </div>
